@@ -1,8 +1,8 @@
 # Tsuro
-Multiplayer implementation of Tsuro using remote clients and a server. Example of turn progression below.
+Multiplayer implementation of Tsuro using remote clients and a server.
 
-### 1
+### Example turn
 ![Board](tsuro/tsuro.png)
 
-### 2
+### Subsequent turn
 ![Board](tsuro/tsuro1.png)
